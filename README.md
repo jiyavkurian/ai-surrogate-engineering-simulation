@@ -29,6 +29,8 @@ The objective of this project is to construct validated surrogate models that ap
 - ANN: R² = 0.9999
 - greater than 10⁴× computational speedup compared to direct FEM Monte Carlo
 - Reliable identification of safe and burst operating thresholds
+  ![Surrogate Model Comparison](figures/surrogate_comparison.png)
+
 
 ## Repository Structure
 
