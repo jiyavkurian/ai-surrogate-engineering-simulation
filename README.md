@@ -27,7 +27,7 @@ The objective of this project is to construct validated surrogate models that ap
 
 - Gaussian Process: R² = 0.999999, RMSE < 0.05 MPa
 - ANN: R² = 0.9999
-- >10⁴× computational speedup compared to direct FEM Monte Carlo
+- greater than 10⁴× computational speedup compared to direct FEM Monte Carlo
 - Reliable identification of safe and burst operating thresholds
 
 ## Repository Structure
