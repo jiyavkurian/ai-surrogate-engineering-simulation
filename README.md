@@ -35,6 +35,7 @@ The objective of this project is to construct validated surrogate models that ap
 ## Repository Structure
 
 1. Data
+     - Generate_Samples.m
      - template_Al.inp
      - uq_combined_results.csv  
      - process_uq_results_Al.m  
