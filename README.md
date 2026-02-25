@@ -34,15 +34,14 @@ The objective of this project is to construct validated surrogate models that ap
 
 ## Repository Structure
 
-1. Data
-     - Generate_Samples.m
-     - template_Al.inp
-     - uq_combined_results.csv  
-     - process_uq_results_Al.m  
-     - Read_Results_from_ODB.py  
-     - surrogate_model.m
-2. figures
-3. README.md  
+1:Generate_Samples.m
+2:template_Al.inp
+3.uq_combined_results.csv  
+4.process_uq_results_Al.m  
+5.Read_Results_from_ODB.py  
+6.surrogate_model.m
+7.figures
+8.README.md  
 
 ## How to Run
 
@@ -57,7 +56,7 @@ The objective of this project is to construct validated surrogate models that ap
 
 ## Tools & Technologies
 
-- Python (NumPy, scikit-learn, Matplotlib)
+- Python 
 - MATLAB
 - Abaqus
 - Monte Carlo Simulation
