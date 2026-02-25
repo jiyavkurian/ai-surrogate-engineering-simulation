@@ -35,10 +35,10 @@ The objective of this project is to construct validated surrogate models that ap
 ## Repository Structure
 
 1. Data
-      uq_combined_results.csv  
-      process_uq_results_Al.m  
-      Read_Results_from_ODB.py  
-      surrogate_model.m
+     - uq_combined_results.csv  
+     - process_uq_results_Al.m  
+     - Read_Results_from_ODB.py  
+     - surrogate_model.m
 2. figures
 3. README.md  
 
