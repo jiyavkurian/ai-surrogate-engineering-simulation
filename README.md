@@ -34,9 +34,10 @@ The objective of this project is to construct validated surrogate models that ap
 
 ## Repository Structure
 
-├── data_sample.csv  
-├── surrogate_model.py  
-├── monte_carlo_reliability.py  
+├── uq_combined_results.csv  
+├── process_uq_results_Al.m  
+├── Read_Results_from_ODB.py  
+├── surrogate_model.m (Surrogate + reliability Model)
 ├── figures/  
 └── README.md  
 
